@@ -1,6 +1,15 @@
 # scroll-viewlist
 
-> A Vue.js project
+> vue 基于 better-scroll 的左右联动下拉列表例子。
+
+* [better-scroll](https://github.com/ustbhuangyi/better-scroll)
+* [滚动原理](https://zhuanlan.zhihu.com/p/27407024)
+
+效果图如下：
+
+![listview-demo](https://github.com/yankwan/Blog/blob/master/image/listview.gif?raw=true)
+
+ps: api文件中 `getUsers` 是获取在线数据，`getMockUsers` 是获取本地数据。 
 
 ## Build Setup
 
